@@ -5,8 +5,6 @@ new Vue(
         el: '#app',
         data: {
             emails: [],
-
-            // emailRandom: "", 
         },
 
         created() {
